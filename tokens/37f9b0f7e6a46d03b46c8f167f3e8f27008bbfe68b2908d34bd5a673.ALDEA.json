@@ -1,0 +1,10 @@
+{
+    "policyId": "37f9b0f7e6a46d03b46c8f167f3e8f27008bbfe68b2908d34bd5a673",
+    "name": "ALDEA", 
+    "symbol": "ALDEA", 
+    "website": "https://aldea-dao.org", 
+    "description": "Tokenomics available at https://aldea-dao.org/tokenomics-eng.html",
+    "totalSupply": 650000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000],
+    "decimalPlaces": 6
+}
